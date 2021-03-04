@@ -6,4 +6,3 @@ function showText() {
 }
 
 text.addEventListener('click', showText)
-
